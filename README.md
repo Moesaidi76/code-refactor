@@ -36,7 +36,7 @@ All these adjustments help to make the css file cleaner and easier to read.
 
 Please see the link below for the finished product.
 
-* [Code Refractor for Horiseon](https://crystal-g-b.github.io/Code-Refactor-Assignment/)
+* [Code Refractor for Horiseon] https://moesaidi76.github.io/code-refactor/
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
